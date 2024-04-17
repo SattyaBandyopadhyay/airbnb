@@ -9,4 +9,5 @@ Tech Stacks : Html , Css , JavaScript & React Js
 Description : This website is a clone website of airbnb where it gives comprehensive UI to any client.
 <br>
 Feature : This website contains a calender feature where it can book room by weekly or Monthly etc.
+![image](https://github.com/SattyaBandyopadhyay/airbnb/assets/157003543/86a2b4f0-daa8-478f-a517-1a4e281db1e4)
 
